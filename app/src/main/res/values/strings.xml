@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottonApplication</string>
+    <string name="_1">1</string>
+    <string name="roll">Roll</string>
+    <string name="android_development_stage_two">Android development Stage Two</string>
+    <string name="todo">TODO</string>
+    <string name="my_name_is_justice_i_am_a_student_and_i_love_coding">My name is justice, I am a student and i love coding</string>
+    <string name="justice_nwogu">Justice Nwogu</string>
+</resources>
